@@ -1,0 +1,19 @@
+
+.container.ejercicio1{
+    padding-top: 100px;
+}
+.content-container{
+    width: 50%;
+    height: 30%;
+    margin: auto;
+    text-align: center;
+    color: var(--color-button-text);
+    /* color: var(--color-text); */
+    background-color: var(--color-button-text);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    cursor:pointer;
+}

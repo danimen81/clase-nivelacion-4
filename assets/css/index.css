@@ -1,0 +1,11 @@
+/* estilos de configuracion */
+@import './_base.css';
+@import './_reset.css';
+@import './_layout.css';
+
+/* estilos para ejercicios */
+@import './ejercicio1.css';
+@import './ejercicio2.css';
+
+/* estilos para el home */
+@import './home.css';
