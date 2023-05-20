@@ -17,3 +17,17 @@
     padding: 20px;
     cursor:pointer;
 }
+
+.container-boxes{
+    display:flex;
+    margin:auto;
+    width: 60%;
+}
+.haciaejercicio{
+    margin-top: 100px;
+    width: 25%;
+    height:100px;
+    background-color: rgb(79, 4, 160);
+    border: 1px solid rgb(255, 0, 255);
+    cursor:pointer;
+}

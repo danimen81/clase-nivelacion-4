@@ -9,10 +9,3 @@ const ventas = [
     { producto: 'Sombrero Violeta',tipo:'Sombrero', valor: 33390 },
     { producto: 'Sombrero Pequeño',tipo:'Sombrero', valor: 8290 },
   ];
-
-
-296890
-32987
-12200
-8290
-console.log((296890 + 32987 + 12200) / 8290);
